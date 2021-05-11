@@ -1,0 +1,15 @@
+The number of unique customerId for contractId :2346 is 2
+The number of unique customerId for contractId :2345 is 3
+
+The number of unique customerId for geo zone :eu_west is 2
+The number of unique customerId for geo zone :us_west is 2
+The number of unique customerId for geo zone :us_east is 1
+
+The average build duration for geozone :eu_west is 4222.0
+The average build duration for geozone :us_west is 2216.0
+The average build duration for geozone :us_east is 3445.0
+
+The unique customerId list for geo zone :eu_west is [3244132, 3244332]
+The unique customerId list for geo zone :us_west is [1233456, 1223456]
+The unique customerId list for geo zone :us_east is [2343225]
+
