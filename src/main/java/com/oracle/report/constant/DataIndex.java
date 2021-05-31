@@ -1,9 +1,9 @@
 package com.oracle.report.constant;
 
 /**
- * Enumaration of index position in the input data line
+ * Enumeration of index position in the input data line
  */
-public enum IndexPosition {
+public enum DataIndex {
     CUSTOMER_ID(0),
     CONTRACT_ID(1),
     GEO_ZONE(2),
@@ -18,7 +18,7 @@ public enum IndexPosition {
         return this.value;
     }
 
-    IndexPosition(Integer value) {
+    DataIndex(Integer value) {
         this.value = value;
     }
 }
